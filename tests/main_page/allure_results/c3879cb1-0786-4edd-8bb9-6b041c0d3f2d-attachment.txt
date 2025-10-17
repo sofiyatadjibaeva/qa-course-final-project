@@ -1,0 +1,4 @@
+INFO     root:browser.py:12 Prepare chrome browser...
+INFO     root:browser.py:20 Browser chrome has been started.
+INFO     root:test_slider_navigation.py:31 Start test_slider_navigation
+INFO     request:browser_actions.py:8 Открыть главную страницу сайта Pizzeria

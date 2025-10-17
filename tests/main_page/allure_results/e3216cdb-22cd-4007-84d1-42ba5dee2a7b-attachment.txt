@@ -1,0 +1,6 @@
+INFO     root:browser.py:12 Prepare chrome browser...
+INFO     root:browser.py:20 Browser chrome has been started.
+INFO     root:test_slider_navigation.py:8 Start test_slider_navigation
+INFO     request:browser_actions.py:8 Открыть главную страницу сайта Pizzeria
+INFO     request:browser_actions.py:44 Навести курсор на слайдер
+INFO     request:browser_actions.py:17 Нажать на правый переключатель слайдера

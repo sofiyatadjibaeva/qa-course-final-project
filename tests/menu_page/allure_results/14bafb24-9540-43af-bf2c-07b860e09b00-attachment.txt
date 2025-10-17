@@ -1,0 +1,8 @@
+[2025-08-20 23:59:24,633][INFO][root] Prepare chrome browser...
+[2025-08-21 00:01:01,467][INFO][root] Browser chrome has been started.
+[2025-08-21 00:01:01,529][INFO][root] Start test_filter_desserts_by_price
+[2025-08-21 00:01:01,529][INFO][request] Открыть главную страницу сайта Pizzeria
+[2025-08-21 00:01:15,352][INFO][request] Навести курсор на вкладку «Меню»
+[2025-08-21 00:01:25,212][INFO][request] Нажать на ссылку раздела «Десерты»
+[2025-08-21 00:01:32,312][INFO][request] Нажать на кнопку «Применить»
+[2025-08-21 00:01:36,269][INFO][root] Finish test_filter_desserts_by_price

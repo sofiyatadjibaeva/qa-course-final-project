@@ -1,0 +1,10 @@
+INFO     root:browser.py:12 Prepare chrome browser...
+INFO     root:browser.py:20 Browser chrome has been started.
+INFO     root:test_register_new_user_with_empty_field.py:9 Start test_register_new_user_with_empty_field
+INFO     request:browser_actions.py:8 Открыть главную страницу сайта Pizzeria
+INFO     request:browser_actions.py:17 Открыть страницу с формой регистрации
+INFO     request:browser_actions.py:26 Ввести адрес почты
+INFO     request:browser_actions.py:26 Ввести пароль
+INFO     request:browser_actions.py:17 Нажать на кнопку «Зарегистрироваться»
+INFO     request:assertions.py:17 Проверить, что отображается сообщение об ошибке
+INFO     root:test_register_new_user_with_empty_field.py:20 Finish test_register_new_user_with_empty_field

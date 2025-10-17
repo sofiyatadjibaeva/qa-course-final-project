@@ -1,0 +1,7 @@
+[2025-08-20 19:37:45,776][INFO][root] Prepare chrome browser...
+[2025-08-20 19:38:05,466][INFO][root] Browser chrome has been started.
+[2025-08-20 19:38:05,470][INFO][root] Start test_change_pizza_quantity_in_cart
+[2025-08-20 19:38:05,470][INFO][request] Открыть главную страницу сайта Pizzeria
+[2025-08-20 19:38:10,526][INFO][request] Навести курсор на пиццу с ID 425
+[2025-08-20 19:38:11,237][INFO][request] Нажать на кнопку «В корзину» для ID 425
+[2025-08-20 19:38:11,739][INFO][request] Открыть страницу корзины

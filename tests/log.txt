@@ -1,0 +1,110 @@
+[2025-08-25 21:43:39,729][INFO][root] Prepare chrome browser...
+[2025-08-25 21:43:58,840][INFO][root] Browser chrome has been started.
+[2025-08-25 21:43:58,857][INFO][root] Start test_change_pizza_quantity_in_cart
+[2025-08-25 21:43:58,858][INFO][request] Открыть главную страницу сайта Pizzeria
+[2025-08-25 21:44:03,729][INFO][request] Навести курсор на пиццу с ID 425
+[2025-08-25 21:44:04,428][INFO][request] Нажать на кнопку «В корзину» для пиццы с ID 425
+[2025-08-25 21:44:04,632][INFO][request] Открыть страницу корзины
+[2025-08-25 21:44:06,047][INFO][root] Prepare chrome browser...
+[2025-08-25 21:44:06,324][INFO][root] Browser chrome has been started.
+[2025-08-25 21:44:06,328][INFO][root] Start test_delete_pizza_from_cart
+[2025-08-25 21:44:06,328][INFO][request] Открыть главную страницу сайта Pizzeria
+[2025-08-25 21:44:09,583][INFO][request] Навести курсор на пиццу с ID 425
+[2025-08-25 21:44:10,416][INFO][request] Нажать на кнопку «В корзину» для пиццы с ID 425
+[2025-08-25 21:44:10,539][INFO][request] Открыть страницу корзины
+[2025-08-25 21:44:11,189][INFO][request] Нажать на кнопку удаления
+[2025-08-25 21:44:41,767][INFO][root] Prepare chrome browser...
+[2025-08-25 21:44:42,034][INFO][root] Browser chrome has been started.
+[2025-08-25 21:44:42,037][INFO][root] Start test_open_cart_via_more_button_from_product_page
+[2025-08-25 21:44:42,038][INFO][request] Открыть главную страницу сайта Pizzeria
+[2025-08-25 21:44:45,378][INFO][request] Нажать на изображение пиццы
+[2025-08-25 21:44:46,926][INFO][request] Нажать на кнопку «В корзину»
+[2025-08-25 21:44:47,395][INFO][request] Нажать на кнопку «Подробнее»
+[2025-08-25 21:44:48,107][INFO][root] Finish test_open_cart_via_more_button_from_product_page
+[2025-08-25 21:44:48,332][INFO][root] Prepare chrome browser...
+[2025-08-25 21:44:48,602][INFO][root] Browser chrome has been started.
+[2025-08-25 21:44:48,607][INFO][root] Start test_open_cart_via_nav_menu
+[2025-08-25 21:44:48,607][INFO][request] Открыть главную страницу сайта Pizzeria
+[2025-08-25 21:44:52,081][INFO][request] Открыть страницу корзины
+[2025-08-25 21:44:52,683][INFO][request] Нажать на кнопку «Подробнее»
+[2025-08-25 21:45:23,093][INFO][root] Prepare chrome browser...
+[2025-08-25 21:45:23,359][INFO][root] Browser chrome has been started.
+[2025-08-25 21:45:23,362][INFO][root] Start test_add_multiple_pizzas_from_slider
+[2025-08-25 21:45:23,363][INFO][request] Открыть главную страницу сайта Pizzeria
+[2025-08-25 21:45:26,894][INFO][request] Навести курсор на пиццу с ID 425
+[2025-08-25 21:45:27,727][INFO][request] Нажать на кнопку «В корзину» для пиццы с ID 425
+[2025-08-25 21:45:27,832][INFO][request] Навести курсор на пиццу с ID 423
+[2025-08-25 21:45:28,676][INFO][request] Нажать на кнопку «В корзину» для пиццы с ID 423
+[2025-08-25 21:45:28,763][INFO][request] Открыть страницу корзины
+[2025-08-25 21:45:29,554][INFO][request] Проверить название продукта
+[2025-08-25 21:45:29,598][INFO][request] Проверить цену продукта
+[2025-08-25 21:45:29,640][INFO][request] Проверить подитог продукта)
+[2025-08-25 21:45:29,676][INFO][request] Проверить название продукта
+[2025-08-25 21:45:29,712][INFO][request] Проверить цену продукта
+[2025-08-25 21:45:29,749][INFO][request] Проверить подитог продукта)
+[2025-08-25 21:45:29,786][INFO][request] Проверить итоговую сумму заказа
+[2025-08-25 21:45:29,823][INFO][root] Finish test_add_multiple_pizzas_from_slider
+[2025-08-25 21:45:29,999][INFO][root] Prepare chrome browser...
+[2025-08-25 21:45:30,270][INFO][root] Browser chrome has been started.
+[2025-08-25 21:45:30,274][INFO][root] Start test_add_pizza_to_cart_from_slider
+[2025-08-25 21:45:30,274][INFO][request] Открыть главную страницу сайта Pizzeria
+[2025-08-25 21:45:33,773][INFO][request] Навести курсор на пиццу с ID 425
+[2025-08-25 21:45:34,615][INFO][request] Нажать на кнопку «В корзину» для пиццы с ID 425
+[2025-08-25 21:45:34,715][INFO][request] Открыть страницу корзины
+[2025-08-25 21:45:35,464][INFO][request] Проверить название продукта
+[2025-08-25 21:46:05,949][INFO][root] Prepare chrome browser...
+[2025-08-25 21:46:06,223][INFO][root] Browser chrome has been started.
+[2025-08-25 21:46:06,227][INFO][root] Start test_open_main_pagee
+[2025-08-25 21:46:06,227][INFO][request] Открыть главную страницу сайта Pizzeria
+[2025-08-25 21:46:09,506][INFO][request] Проверить заголовок главной страницы
+[2025-08-25 21:46:09,586][INFO][root] Finish test_open_main_page
+[2025-08-25 21:46:09,768][INFO][root] Prepare chrome browser...
+[2025-08-25 21:46:10,023][INFO][root] Browser chrome has been started.
+[2025-08-25 21:46:10,026][INFO][root] Start test_open_pizza_page_from_main
+[2025-08-25 21:46:10,027][INFO][request] Открыть главную страницу сайта Pizzeria
+[2025-08-25 21:46:12,972][INFO][request] Нажать на изображение пиццы
+[2025-08-25 21:46:14,451][INFO][request] Проверить название продукта
+[2025-08-25 21:46:14,491][INFO][request] Проверить цену продукта
+[2025-08-25 21:46:14,527][INFO][root] Finish test_open_pizza_page_from_main
+[2025-08-25 21:46:14,687][INFO][root] Prepare chrome browser...
+[2025-08-25 21:46:14,991][INFO][root] Browser chrome has been started.
+[2025-08-25 21:46:14,995][INFO][root] Start test_slider_navigation
+[2025-08-25 21:46:14,995][INFO][request] Открыть главную страницу сайта Pizzeria
+[2025-08-25 21:46:18,134][INFO][request] Навести курсор на слайдер
+[2025-08-25 21:46:18,443][INFO][request] Нажать на правый переключатель слайдера
+[2025-08-25 21:46:18,561][INFO][request] Нажать на левый переключатель слайдера
+[2025-08-25 21:46:18,996][INFO][root] Prepare chrome browser...
+[2025-08-25 21:46:19,248][INFO][root] Browser chrome has been started.
+[2025-08-25 21:46:19,252][INFO][root] Start test_add_dessert_to_cart
+[2025-08-25 21:46:19,252][INFO][request] Открыть главную страницу сайта Pizzeria
+[2025-08-25 21:46:22,680][INFO][request] Навести курсор на вкладку «Меню»
+[2025-08-25 21:46:22,989][INFO][request] Нажать на ссылку раздела «Десерты»
+[2025-08-25 21:46:23,484][INFO][request] Нажать на кнопку «В корзину» для десерта с ID 437
+[2025-08-25 21:46:23,571][INFO][request] Открыть страницу корзины
+[2025-08-25 21:46:24,153][INFO][request] Проверить название продукта
+[2025-08-25 21:46:54,623][INFO][root] Prepare chrome browser...
+[2025-08-25 21:46:54,920][INFO][root] Browser chrome has been started.
+[2025-08-25 21:46:54,925][INFO][root] Start test_filter_desserts_by_price
+[2025-08-25 21:46:54,926][INFO][request] Открыть главную страницу сайта Pizzeria
+[2025-08-25 21:46:58,662][INFO][request] Навести курсор на вкладку «Меню»
+[2025-08-25 21:46:58,963][INFO][request] Нажать на ссылку раздела «Десерты»
+[2025-08-25 21:47:00,017][INFO][request] Нажать на кнопку «Применить»
+[2025-08-25 21:47:00,475][INFO][root] Finish test_filter_desserts_by_price
+[2025-08-25 21:47:01,179][INFO][root] Prepare chrome browser...
+[2025-08-25 21:47:01,443][INFO][root] Browser chrome has been started.
+[2025-08-25 21:47:01,447][INFO][root] Start test_open_desserts_via_menu
+[2025-08-25 21:47:01,447][INFO][request] Открыть главную страницу сайта Pizzeria
+[2025-08-25 21:47:06,484][INFO][request] Навести курсор на вкладку «Меню»
+[2025-08-25 21:47:06,795][INFO][request] Нажать на ссылку раздела «Десерты»
+[2025-08-25 21:47:07,313][INFO][root] Finish test_open_desserts_via_menu
+[2025-08-25 21:47:07,794][INFO][root] Prepare chrome browser...
+[2025-08-25 21:47:08,055][INFO][root] Browser chrome has been started.
+[2025-08-25 21:47:08,059][INFO][root] Start test_add_pizza_with_extra_options
+[2025-08-25 21:47:08,060][INFO][request] Открыть главную страницу сайта Pizzeria
+[2025-08-25 21:47:12,211][INFO][request] Нажать на изображение пиццы
+[2025-08-25 21:47:14,205][INFO][request] Нажать на селектор доп.опций
+[2025-08-25 21:47:14,298][INFO][request] Выбрать сырный борт для пиццы
+[2025-08-25 21:47:14,361][INFO][request] Проверить название продукта
+[2025-08-25 21:47:14,398][INFO][request] Проверить цену продукта
+[2025-08-25 21:47:14,433][INFO][request] Открыть страницу корзины
+[2025-08-25 21:47:15,083][INFO][request] Проверить название продукта

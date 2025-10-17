@@ -1,0 +1,55 @@
+[2025-08-13 12:16:15,637][INFO][root] Prepare chrome browser...
+[2025-08-13 12:16:15,655][DEBUG][selenium.webdriver.remote.remote_connection] POST http://127.0.0.1:4444/session {'capabilities': {'firstMatch': [{}], 'alwaysMatch': {'browserName': 'chrome', 'pageLoadStrategy': 'normal', 'goog:chromeOptions': {'extensions': [], 'args': ['--headless']}}}}
+[2025-08-13 12:16:15,655][DEBUG][urllib3.connectionpool] Starting new HTTP connection (1): 127.0.0.1:4444
+[2025-08-13 12:16:44,415][DEBUG][urllib3.connectionpool] http://127.0.0.1:4444 "POST /session HTTP/1.1" 200 0
+[2025-08-13 12:16:44,415][DEBUG][selenium.webdriver.remote.remote_connection] Remote response: status=200 | data={
+  "value": {
+    "sessionId": "2d4044abf83ca644fcdefdf02e606dcd",
+    "capabilities": {
+      "acceptInsecureCerts": false,
+      "browserName": "chrome",
+      "browserVersion": "138.0.7204.183",
+      "chrome": {
+        "chromedriverVersion": "138.0.7204.183 (e90faf484ddbc033fc9bf337621761d3dd5c5289-refs\u002fbranch-heads\u002f7204@{#2435})",
+        "userDataDir": "\u002ftmp\u002f.org.chromium.Chromium.zuVLlH"
+      },
+      "fedcm:accounts": true,
+      "goog:chromeOptions": {
+        "debuggerAddress": "localhost:44995"
+      },
+      "networkConnectionEnabled": false,
+      "pageLoadStrategy": "normal",
+      "platformName": "linux",
+      "proxy": {
+      },
+      "se:bidiEnabled": false,
+      "se:cdp": "ws:\u002f\u002f172.17.0.2:4444\u002fsession\u002f2d4044abf83ca644fcdefdf02e606dcd\u002fse\u002fcdp",
+      "se:cdpVersion": "138.0.7204.183",
+      "se:containerName": "b25c814ba662",
+      "se:deleteSessionOnUi": true,
+      "se:downloadsEnabled": true,
+      "se:noVncPort": 7900,
+      "se:vnc": "ws:\u002f\u002f172.17.0.2:4444\u002fsession\u002f2d4044abf83ca644fcdefdf02e606dcd\u002fse\u002fvnc",
+      "se:vncEnabled": true,
+      "se:vncLocalAddress": "ws:\u002f\u002f172.17.0.2:7900",
+      "setWindowRect": true,
+      "strictFileInteractability": false,
+      "timeouts": {
+        "implicit": 0,
+        "pageLoad": 300000,
+        "script": 30000
+      },
+      "unhandledPromptBehavior": "dismiss and notify",
+      "webauthn:extension:credBlob": true,
+      "webauthn:extension:largeBlob": true,
+      "webauthn:extension:minPinLength": true,
+      "webauthn:extension:prf": true,
+      "webauthn:virtualAuthenticators": true
+    }
+  }
+} | headers=HTTPHeaderDict({'content-length': '1675', 'content-type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+[2025-08-13 12:16:44,416][DEBUG][selenium.webdriver.remote.remote_connection] Finished Request
+[2025-08-13 12:16:44,416][INFO][root] Browser chrome has been started.
+[2025-08-13 12:16:44,704][INFO][root] Start test github advanced
+[2025-08-13 12:16:44,705][INFO][request] Открыть страницу расширенного поиска на GitHub
+[2025-08-13 12:16:44,705][DEBUG][selenium.webdriver.remote.remote_connection] POST http://127.0.0.1:4444/session/2d4044abf83ca644fcdefdf02e606dcd/url {'url': 'https://github.com/search/advanced'}

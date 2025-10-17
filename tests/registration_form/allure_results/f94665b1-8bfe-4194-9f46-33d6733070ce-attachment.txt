@@ -1,0 +1,5 @@
+[2025-09-06 22:44:42,094][INFO][root] Prepare chrome browser...
+[2025-09-06 22:45:11,504][INFO][root] Browser chrome has been started.
+[2025-09-06 22:45:11,710][INFO][root] Start test_open_registration_via_my_account
+[2025-09-06 22:45:11,711][INFO][request] Открыть главную страницу сайта Pizzeria
+[2025-09-06 22:45:15,880][INFO][request] Проверить, что отображается заголовок «Регистрация»

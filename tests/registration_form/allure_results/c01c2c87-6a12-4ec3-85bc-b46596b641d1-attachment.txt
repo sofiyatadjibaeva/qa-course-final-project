@@ -1,0 +1,14 @@
+INFO     root:browser.py:12 Prepare chrome browser...
+INFO     root:browser.py:20 Browser chrome has been started.
+INFO     root:test_open_registration_via_footer.py:8 Start test_open_registration_via_footer
+INFO     request:browser_actions.py:8 Открыть главную страницу сайта Pizzeria
+INFO     request:browser_actions.py:17 Открыть страницу с формой регистрации
+INFO     request:assertions.py:17 Проверить, что отображается заголовок «Регистрация»
+INFO     request:assertions.py:17 Проверить, что отображается соответствующее название поля
+INFO     request:assertions.py:8 Проверить, что отображается поле для ввода имени пользователя
+INFO     request:assertions.py:17 Проверить, что отображается соответствующее название поля
+INFO     request:assertions.py:8 Проверить, что отображается поле для ввода адреса почты
+INFO     request:assertions.py:17 Проверить, что отображается соответствующее название поля
+INFO     request:assertions.py:8 Проверить, что отображается поле для ввода пароля
+INFO     request:assertions.py:8 Проверить, что отображается кнопка регистрации
+INFO     root:test_open_registration_via_footer.py:14 Finish test_open_registration_via_footer

@@ -1,0 +1,17 @@
+INFO     root:browser.py:12 Prepare chrome browser...
+INFO     root:browser.py:20 Browser chrome has been started.
+INFO     root:test_add_pizza_to_cart_from_slider.py:9 Start test_add_pizza_to_cart_from_slider
+INFO     request:browser_actions.py:8 Открыть главную страницу сайта Pizzeria
+INFO     request:browser_actions.py:44 Навести курсор на пиццу с ID 425
+INFO     request:browser_actions.py:17 Нажать на кнопку «В корзину» для ID 425
+INFO     request:browser_actions.py:17 Открыть страницу корзины
+INFO     request:browser_actions.py:61 Дождаться появления названия
+INFO     request:assertions.py:17 Проверить название товара 4 в 1
+INFO     request:browser_actions.py:61 Дождаться появления цены
+INFO     request:assertions.py:17 Проверить цену товара 4 в 1
+INFO     request:browser_actions.py:61 Дождаться появления подитога
+INFO     request:assertions.py:17 Проверить подитог товара 4 в 1 (1 шт.)
+INFO     request:browser_actions.py:61 Дождаться появления количества
+INFO     request:browser_actions.py:61 Дождаться появления итоговой суммы
+INFO     request:assertions.py:17 Проверить итоговую сумму заказа
+INFO     root:test_add_pizza_to_cart_from_slider.py:19 Finish test_add_pizza_to_cart_from_slider

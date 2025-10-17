@@ -1,0 +1,10 @@
+[2025-09-11 22:25:38,428][INFO][root] Prepare chrome browser...
+[2025-09-11 22:25:38,795][INFO][root] Browser chrome has been started.
+[2025-09-11 22:25:38,796][INFO][root] Start test_register_in_loyalty_program_with_invalid_data
+[2025-09-11 22:25:38,842][INFO][request] Открыть главную страницу сайта Pizzeria
+[2025-09-11 22:25:41,949][INFO][request] Открыть страницу бонусной программы
+[2025-09-11 22:25:42,247][INFO][request] Ввести имя пользователя
+[2025-09-11 22:25:42,379][INFO][request] Ввести номер телефона
+[2025-09-11 22:25:42,519][INFO][request] Нажать на кнопку  «Оформить карту»
+[2025-09-11 22:25:42,593][INFO][request] Проверить, что отображается текст
+[2025-09-11 22:25:42,647][INFO][root] Finish test_register_in_loyalty_program_with_invalid_data

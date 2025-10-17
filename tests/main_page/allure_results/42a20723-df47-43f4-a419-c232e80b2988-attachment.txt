@@ -1,0 +1,8 @@
+INFO     root:browser.py:12 Prepare chrome browser...
+INFO     root:browser.py:20 Browser chrome has been started.
+INFO     root:test_open_pizza_page_from_main.py:11 Start test_open_pizza_page_from_main
+INFO     request:browser_actions.py:8 Открыть главную страницу сайта Pizzeria
+INFO     request:browser_actions.py:17 Нажать на изображение пиццы
+INFO     request:assertions.py:17 Проверить название товара 4 в 1
+INFO     request:assertions.py:17 Проверить цену товара 4 в 1
+INFO     root:test_open_pizza_page_from_main.py:23 Finish test_open_pizza_page_from_main

@@ -1,0 +1,6 @@
+[2025-08-25 23:36:21,631][INFO][root] Prepare chrome browser...
+[2025-08-25 23:36:45,065][INFO][root] Browser chrome has been started.
+[2025-08-25 23:36:45,154][INFO][root] Start test_slider_navigation
+[2025-08-25 23:36:45,156][INFO][request] Открыть главную страницу сайта Pizzeria
+[2025-08-25 23:36:47,883][INFO][request] Навести курсор на слайдер
+[2025-08-25 23:36:48,601][INFO][request] Нажать на правый переключатель слайдера

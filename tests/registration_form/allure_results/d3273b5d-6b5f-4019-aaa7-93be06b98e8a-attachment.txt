@@ -1,0 +1,11 @@
+[2025-09-06 23:08:11,350][INFO][root] Prepare chrome browser...
+[2025-09-06 23:08:27,745][INFO][root] Browser chrome has been started.
+[2025-09-06 23:08:27,746][INFO][root] Start test_register_new_user_with_valid_data
+[2025-09-06 23:08:27,746][INFO][request] Открыть главную страницу сайта Pizzeria
+[2025-09-06 23:08:30,611][INFO][request] Открыть страницу с формой регистрации
+[2025-09-06 23:08:31,259][INFO][request] Ввести имя пользователя
+[2025-09-06 23:08:31,449][INFO][request] Ввести адрес почты
+[2025-09-06 23:08:31,539][INFO][request] Ввести пароль
+[2025-09-06 23:08:31,630][INFO][request] Нажать на кнопку «Зарегистрироваться»
+[2025-09-06 23:08:32,347][INFO][request] Проверить, что отображается сообщение об успешной регистрации
+[2025-09-06 23:08:32,385][INFO][root] Finish test_register_new_user_with_valid_data

@@ -1,0 +1,17 @@
+INFO     root:browser.py:12 Prepare chrome browser...
+INFO     root:browser.py:20 Browser chrome has been started.
+INFO     root:test_apply_same_promocode_twice.py:11 Start test_apply_same_promocode_twice
+INFO     request:browser_actions.py:8 Открыть главную страницу сайта Pizzeria
+INFO     request:browser_actions.py:44 Навести курсор на пиццу с ID 425
+INFO     request:browser_actions.py:17 Нажать на кнопку «В корзину» для пиццы с ID 425
+INFO     request:browser_actions.py:17 Открыть страницу аккаунта
+INFO     request:browser_actions.py:26 Ввести имя пользователя
+INFO     request:browser_actions.py:26 Ввести пароль
+INFO     request:browser_actions.py:17 Нажать на кнопку «Войти»
+INFO     request:browser_actions.py:17 Открыть страницу оформления заказа
+INFO     request:browser_actions.py:17 Нажать на кнопку «Нажмите для ввода купона»
+INFO     request:browser_actions.py:26 Ввести валидный промокод в поле для промокода
+INFO     request:browser_actions.py:17 Нажать на кнопку «Применить купон»
+INFO     request:browser_actions.py:17 Нажать на кнопку «Нажмите для ввода купона»
+INFO     request:browser_actions.py:26 Ввести валидный промокод в поле для промокода
+INFO     request:browser_actions.py:17 Нажать на кнопку «Применить купон»

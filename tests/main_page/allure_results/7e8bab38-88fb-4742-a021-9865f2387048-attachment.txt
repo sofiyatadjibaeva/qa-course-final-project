@@ -1,0 +1,8 @@
+[2025-08-20 17:26:48,790][INFO][root] Prepare chrome browser...
+[2025-08-20 17:27:21,522][INFO][root] Browser chrome has been started.
+[2025-08-20 17:27:22,424][INFO][root] Start test_open_pizza_page_from_main
+[2025-08-20 17:27:22,425][INFO][request] Открыть главную страницу сайта Pizzeria
+[2025-08-20 17:27:30,424][INFO][request] Нажать на изображение пиццы
+[2025-08-20 17:27:33,623][INFO][request] Проверить название товара 4 в 1
+[2025-08-20 17:27:33,710][INFO][request] Проверить цену товара 4 в 1
+[2025-08-20 17:27:33,804][INFO][root] Finish test_open_pizza_page_from_main
