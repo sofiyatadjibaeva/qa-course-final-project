@@ -100,12 +100,12 @@ final_project/
 ├── .flake8  
 ├── .gitignore  
 ├── .gitkeep  
+├── README.md  
 ├── conftest.py  
 ├── log.txt  
 ├── logging.ini  
 ├── pytest.ini  
-├── requirements.txt  
-└── README.md  
+└── requirements.txt   
 
 ---
 
