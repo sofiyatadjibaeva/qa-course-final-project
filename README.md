@@ -40,12 +40,15 @@ cd qa-course-final-project
 python -m venv venv
 source venv/bin/activate  # или venv\Scripts\activate на Windows
 pip install -r requirements.txt
+```
 
-Запуск тестов
-pytest -v --alluredir=reports/allure-results
+### Запуск тестов
+```pytest -v --alluredir=reports/allure-results```
 
-Просмотр отчёта Allure
-allure serve reports/allure-results
+### Просмотр отчёта Allure
+```allure serve reports/allure-results```
+
+---
 
 ## 4. Как использовать проект
 
@@ -79,37 +82,41 @@ INFO — вывод в консоль
 DEBUG — запись в файл log.log
 
 ### Структура проекта
-final_project/
-├── src/
-│   ├── actions
-│   ├── fixtures
-│   ├── utils
-│   └── _init_
-├── tests/
-│   ├── cart_page
-│   ├── checkout_page
-│   ├── loyalty_program_page
-│   ├── main_page
-│   ├── menu_page
-│   ├── product_page
-│   ├── registration_form
-│   └── log
-├── .flake8
-├── .gitignore
-├── .gitkeep
-├── conftest.py
-├── log.txt
-├── logging.ini
-├── pytest.ini
-├── requirements.txt
-└── README.md
+final_project/  
+├── src/  
+│   ├── actions  
+│   ├── fixtures  
+│   ├── utils  
+│   └── _init_  
+├── tests/  
+│   ├── cart_page  
+│   ├── checkout_page  
+│   ├── loyalty_program_page  
+│   ├── main_page  
+│   ├── menu_page  
+│   ├── product_page  
+│   ├── registration_form  
+│   └── log  
+├── .flake8  
+├── .gitignore  
+├── .gitkeep  
+├── conftest.py  
+├── log.txt  
+├── logging.ini  
+├── pytest.ini  
+├── requirements.txt  
+└── README.md  
+
+---
 
 ## 5. Сведения об авторe
 
-Автор: Sofiya Tadjibaeva
-GitHub: https://github.com/sofiyatadjibaeva
-Email: sofiatadjibaeva@gmail.com
+Автор: Sofiya Tadjibaeva  
+GitHub: https://github.com/sofiyatadjibaeva  
+Email: sofiatadjibaeva@gmail.com  
 Telegram: @stridersan
+
+---
 
 ## 6. Лицензия
 
